@@ -1,6 +1,6 @@
 # Hi, I'm Mary 👋🏻💻
 
-## I am a content creator turned data geek. This is my journey.
+## I am a content creator turned data geek.
 
 As a marketing professional I understand all too well how businesses struggle to access reliable data. And with third party cookie applications slowly going away due to increased scrutiny, this is forcing brands to prioritize tactics that rely on first party data. Unfortunately, that data is either unorganized or full of errors.
 
