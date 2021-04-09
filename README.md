@@ -1,7 +1,12 @@
-# Transforming Data Into Actionable Business Insights
+# Hi, I'm Mary 👋🏻💻
 
-## Hi, I'm Mary 👋🏻💻
+## About Me 🤸🏻
+* I am a Marketing Analyst 📈
+* I am learning Python and R 👩🏻‍💻
+* I am exploring the realm of Power BI 📊
+* My goal is to get my Masters in Computer Science 🎓
+* I like gardening, reading, and making delicious food 🍴
+* Fun Fact: My husband and I brew all the beer we drink 🍺
 
-As a marketing professional I understand all too well how businesses struggle to access reliable data. In 2018 I started using Excel Spreadsheets to help my company understand the importance of the marketing activities we were doing. Over the passed 2 years, that has grown into managing a comprehensive KPI dashboard that our management team uses to plan future marketing and sales activities. 
-
-**I have a passion for data.** I am constantly putting myself to the test, learning, and finding more efficient ways read, work with, analyze, and argue with data. As an aspiring data analyst, I am learning the tools and languages it takes to clean data, and craft a compelling story.
+## 📬 Let's Connect
+* LinkedIn: https://www.linkedin.com/in/marymcentire/
