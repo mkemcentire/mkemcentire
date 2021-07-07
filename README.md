@@ -10,3 +10,4 @@
 ## 📬 Let's Connect
 * LinkedIn: https://www.linkedin.com/in/marymcentire/
 * Twitter: https://twitter.com/mke_mcentire
+* Blog: https://mkemcentire.github.io/
