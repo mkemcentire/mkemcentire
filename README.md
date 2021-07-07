@@ -4,7 +4,7 @@
 * I am a certified data science professional & IT support specialist 💻
 * My current role focuses on market analysis & SEO efforts 📈
 * My favorite programming language is Python 👩🏻‍💻
-* Я изучаю русский язык  🇷🇺
+* Я изучаю русский язык 🇷🇺
 * When I'm not working, you can find me playing video games, gardening, or brewing beer with my husband 🍺
 
 ## 📬 Let's Connect
