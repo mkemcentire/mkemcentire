@@ -2,7 +2,7 @@
 
 ## About Me 🤸🏻
 * I am a certified data science professional & IT support specialist
-* My current role focuses on market analysis & SEO efforts
+* My current role focuses on market analysis & SEO
 * My favorite programming language is Python
 * Я изучаю русский язык
 * When I'm not working, you can find me reading, gardening, or brewing beer with my husband
