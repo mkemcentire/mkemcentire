@@ -1,5 +1,7 @@
 # Hi, I'm Mary 👋🏻💻
 
+Marketing Analyst, SEO, Aspiring Security Analyst
+
 ## About Me 🤸🏻
 * I am a certified data science professional & IT support specialist
 * My current role focuses on market analysis & SEO
